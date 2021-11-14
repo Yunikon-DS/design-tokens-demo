@@ -1,0 +1,27 @@
+{
+  "source": ["tokens/*.json"],
+  "platforms": {
+    "css": {
+      "transformGroup": "custom/css",
+      "buildPath": "css/",
+      "files": [{
+        "destination": "variables.css",
+        "format": "css/variables",
+        "options" : {
+          "showFileHeader": false
+        }
+      }]
+    },
+		"lit": {
+      "transformGroup": "custom/css",
+      "buildPath": "css/",
+      "files": [{
+        "destination": "variables.js",
+        "format": "lit/variables",
+        "options" : {
+          "showFileHeader": false
+        }
+      }]
+    }
+  }
+}
