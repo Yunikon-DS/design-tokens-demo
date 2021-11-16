@@ -1,6 +1,6 @@
 {
   "name": "@yunikon-ds/design-tokens-demo",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Base repo to transform json design tokens from the figma design token plugin via amazon style directory.",
   "main": "css/variables.js",
   "type": "module",
