@@ -1,5 +1,5 @@
 :root {
-  --color-primary-default-base: #74ba53; /* primary default base */
+  --color-primary-default-base: #7353ba; /* primary default base */
   --color-primary-default-contrast: #ffffff; /* primary default contrast */
   --color-primary-hover-base: #f7b538; /* primary hover base */
   --color-primary-hover-contrast: #7353ba; /* primary hover contrast */
@@ -80,11 +80,11 @@
   --font-link-text-case: none;
   --font-display-lg-font-size: 72px;
   --font-display-lg-text-decoration: none;
-  --font-display-lg-font-family: Helvetica;
-  --font-display-lg-font-weight: 700;
+  --font-display-lg-font-family: Poppins;
+  --font-display-lg-font-weight: 900;
   --font-display-lg-font-style: normal;
   --font-display-lg-font-stretch: normal;
-  --font-display-lg-font-style-old: Bold;
+  --font-display-lg-font-style-old: Black;
   --font-display-lg-letter-spacing: 0;
   --font-display-lg-line-height: 80px;
   --font-display-lg-paragraph-indent: 0;
