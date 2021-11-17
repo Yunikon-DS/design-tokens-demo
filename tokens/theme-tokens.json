@@ -6,7 +6,7 @@
           "category": "color",
           "exportKey": "color",
           "comment": "primary default base",
-          "value": "rgba(110, 186, 83, 1)",
+          "value": "rgba(85, 255, 97, 1)",
           "type": "color"
         },
         "contrast": {
@@ -658,7 +658,7 @@
         "category": "font",
         "exportKey": "font",
         "fontSize": {
-          "value": 24,
+          "value": 48,
           "type": "number",
           "unit": "pixel"
         },
@@ -667,11 +667,11 @@
           "type": "string"
         },
         "fontFamily": {
-          "value": "Comic Neue",
+          "value": "Poppins",
           "type": "string"
         },
         "fontWeight": {
-          "value": 400,
+          "value": 900,
           "type": "number"
         },
         "fontStyle": {
@@ -683,7 +683,7 @@
           "type": "string"
         },
         "_fontStyleOld": {
-          "value": "Regular",
+          "value": "Black",
           "type": "string"
         },
         "letterSpacing": {
