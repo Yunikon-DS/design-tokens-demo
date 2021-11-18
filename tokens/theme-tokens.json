@@ -6,7 +6,7 @@
           "category": "color",
           "exportKey": "color",
           "comment": "primary default base",
-          "value": "rgba(85, 255, 97, 1)",
+          "value": "rgba(231, 65, 54, 1)",
           "type": "color"
         },
         "contrast": {
@@ -658,7 +658,7 @@
         "category": "font",
         "exportKey": "font",
         "fontSize": {
-          "value": 48,
+          "value": 32,
           "type": "number",
           "unit": "pixel"
         },
@@ -667,11 +667,11 @@
           "type": "string"
         },
         "fontFamily": {
-          "value": "Poppins",
+          "value": "Arial",
           "type": "string"
         },
         "fontWeight": {
-          "value": 900,
+          "value": 700,
           "type": "number"
         },
         "fontStyle": {
@@ -683,7 +683,7 @@
           "type": "string"
         },
         "_fontStyleOld": {
-          "value": "Black",
+          "value": "Bold",
           "type": "string"
         },
         "letterSpacing": {
