@@ -1,6 +1,11 @@
 import { css } from 'lit';
 
 export default css`:root {
+  --size-stack-xs: 4rempx;
+  --size-stack-sm: 8rempx;
+  --size-stack-md: 16rempx;
+  --size-stack-lg: 32rempx;
+  --size-stack-xl: 64rempx;
   --spacing-inline-sm-top: 0;
   --spacing-inline-sm-right: 8px;
   --spacing-inline-sm-bottom: 0;

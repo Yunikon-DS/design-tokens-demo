@@ -1,4 +1,43 @@
 {
+  "size": {
+    "stack": {
+      "xs": {
+        "category": "size",
+        "exportKey": "size",
+        "value": 4,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "sm": {
+        "category": "size",
+        "exportKey": "size",
+        "value": 8,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "md": {
+        "category": "size",
+        "exportKey": "size",
+        "value": 16,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "lg": {
+        "category": "size",
+        "exportKey": "size",
+        "value": 32,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "xl": {
+        "category": "size",
+        "exportKey": "size",
+        "value": 64,
+        "type": "number",
+        "unit": "pixel"
+      }
+    }
+  },
   "spacing": {
     "inline": {
       "sm": {
