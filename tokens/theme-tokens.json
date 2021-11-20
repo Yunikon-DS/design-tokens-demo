@@ -263,7 +263,7 @@
       "category": "radius",
       "exportKey": "radius",
       "radius": {
-        "value": 8,
+        "value": 60,
         "type": "number",
         "unit": "pixel"
       },
@@ -273,22 +273,22 @@
       },
       "radii": {
         "topLeft": {
-          "value": 8,
+          "value": 60,
           "type": "number",
           "unit": "pixel"
         },
         "topRight": {
-          "value": 8,
+          "value": 60,
           "type": "number",
           "unit": "pixel"
         },
         "bottomRight": {
-          "value": 8,
+          "value": 60,
           "type": "number",
           "unit": "pixel"
         },
         "bottomLeft": {
-          "value": 8,
+          "value": 60,
           "type": "number",
           "unit": "pixel"
         }
@@ -351,7 +351,7 @@
           "category": "color",
           "exportKey": "color",
           "comment": "primary default base",
-          "value": "rgba(115, 83, 186, 1)",
+          "value": "rgba(0, 153, 255, 1)",
           "type": "color"
         },
         "contrast": {
@@ -450,7 +450,7 @@
         "category": "color",
         "exportKey": "color",
         "comment": "accent base",
-        "value": "rgba(247, 181, 56, 1)",
+        "value": "rgba(231, 65, 54, 1)",
         "type": "color"
       },
       "contrast": {
@@ -1003,7 +1003,7 @@
         "category": "font",
         "exportKey": "font",
         "fontSize": {
-          "value": 48,
+          "value": 60,
           "type": "number",
           "unit": "pixel"
         },
