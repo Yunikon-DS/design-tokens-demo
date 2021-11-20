@@ -263,7 +263,7 @@
       "category": "radius",
       "exportKey": "radius",
       "radius": {
-        "value": 60,
+        "value": 4,
         "type": "number",
         "unit": "pixel"
       },
@@ -273,22 +273,22 @@
       },
       "radii": {
         "topLeft": {
-          "value": 60,
+          "value": 4,
           "type": "number",
           "unit": "pixel"
         },
         "topRight": {
-          "value": 60,
+          "value": 4,
           "type": "number",
           "unit": "pixel"
         },
         "bottomRight": {
-          "value": 60,
+          "value": 4,
           "type": "number",
           "unit": "pixel"
         },
         "bottomLeft": {
-          "value": 60,
+          "value": 4,
           "type": "number",
           "unit": "pixel"
         }
@@ -351,7 +351,7 @@
           "category": "color",
           "exportKey": "color",
           "comment": "primary default base",
-          "value": "#0099FF",
+          "value": "rgba(0, 153, 255, 1)",
           "type": "color"
         },
         "contrast": {
@@ -450,7 +450,7 @@
         "category": "color",
         "exportKey": "color",
         "comment": "accent base",
-        "value": "rgba(247, 181, 56, 1)",
+        "value": "rgba(0, 255, 153, 1)",
         "type": "color"
       },
       "contrast": {
@@ -1003,7 +1003,7 @@
         "category": "font",
         "exportKey": "font",
         "fontSize": {
-          "value": 48,
+          "value": 80,
           "type": "number",
           "unit": "pixel"
         },
@@ -1012,11 +1012,11 @@
           "type": "string"
         },
         "fontFamily": {
-          "value": "Poppins",
+          "value": "Timmana",
           "type": "string"
         },
         "fontWeight": {
-          "value": 900,
+          "value": 400,
           "type": "number"
         },
         "fontStyle": {
@@ -1028,7 +1028,7 @@
           "type": "string"
         },
         "_fontStyleOld": {
-          "value": "Black",
+          "value": "Regular",
           "type": "string"
         },
         "letterSpacing": {

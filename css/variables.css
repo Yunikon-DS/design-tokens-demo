@@ -41,12 +41,12 @@
   --radius-sm-radii-bottom-right: 0;
   --radius-sm-radii-bottom-left: 0;
   --radius-sm-smoothing: 0;
-  --radius-md-radius: 60px;
+  --radius-md-radius: 4px;
   --radius-md-radius-type: single;
-  --radius-md-radii-top-left: 60px;
-  --radius-md-radii-top-right: 60px;
-  --radius-md-radii-bottom-right: 60px;
-  --radius-md-radii-bottom-left: 60px;
+  --radius-md-radii-top-left: 4px;
+  --radius-md-radii-top-right: 4px;
+  --radius-md-radii-bottom-right: 4px;
+  --radius-md-radii-bottom-left: 4px;
   --radius-md-smoothing: 0;
   --radius-lg-radius: 100px;
   --radius-lg-radius-type: single;
@@ -56,7 +56,7 @@
   --radius-lg-radii-bottom-left: 100px;
   --radius-lg-smoothing: 0;
   --color-debug: #c4c4c4;
-  --color-primary-default-base: #7353ba; /* primary default base */
+  --color-primary-default-base: #0099ff; /* primary default base */
   --color-primary-default-contrast: #ffffff; /* primary default contrast */
   --color-primary-hover-base: #f7b538; /* primary hover base */
   --color-primary-hover-contrast: #7353ba; /* primary hover contrast */
@@ -68,7 +68,7 @@
   --color-secondary-hover-contrast: #f7b538; /* secondary hover contrast */
   --color-secondary-active-base: #f7b538; /* secondary active base */
   --color-secondary-active-contrast: #7353ba; /* secondary active contrast */
-  --color-accent-base: #f7b538; /* accent base */
+  --color-accent-base: #00ff99; /* accent base */
   --color-accent-contrast: #7353ba; /* accent contrast */
   --color-focus-base: #f7b538; /* focus base */
   --color-disabled-base: #e8e1e5; /* disabled base */
@@ -147,13 +147,13 @@
   --font-display-lg-paragraph-indent: 0;
   --font-display-lg-paragraph-spacing: 0;
   --font-display-lg-text-case: none;
-  --font-display-sm-font-size: 48px;
+  --font-display-sm-font-size: 80px;
   --font-display-sm-text-decoration: none;
-  --font-display-sm-font-family: Poppins;
-  --font-display-sm-font-weight: 900;
+  --font-display-sm-font-family: Timmana;
+  --font-display-sm-font-weight: 400;
   --font-display-sm-font-style: normal;
   --font-display-sm-font-stretch: normal;
-  --font-display-sm-font-style-old: Black;
+  --font-display-sm-font-style-old: Regular;
   --font-display-sm-letter-spacing: 0;
   --font-display-sm-line-height: 58px;
   --font-display-sm-paragraph-indent: 0;
