@@ -56,7 +56,7 @@
   --radius-lg-radii-bottom-left: 100px;
   --radius-lg-smoothing: 0;
   --color-debug: #c4c4c4;
-  --color-primary-default-base: #0099ff; /* primary default base */
+  --color-primary-default-base: #7353ba; /* primary default base */
   --color-primary-default-contrast: #ffffff; /* primary default contrast */
   --color-primary-hover-base: #f7b538; /* primary hover base */
   --color-primary-hover-contrast: #7353ba; /* primary hover contrast */
@@ -68,7 +68,7 @@
   --color-secondary-hover-contrast: #f7b538; /* secondary hover contrast */
   --color-secondary-active-base: #f7b538; /* secondary active base */
   --color-secondary-active-contrast: #7353ba; /* secondary active contrast */
-  --color-accent-base: #e74136; /* accent base */
+  --color-accent-base: #f7b538; /* accent base */
   --color-accent-contrast: #7353ba; /* accent contrast */
   --color-focus-base: #f7b538; /* focus base */
   --color-disabled-base: #e8e1e5; /* disabled base */
@@ -147,7 +147,7 @@
   --font-display-lg-paragraph-indent: 0;
   --font-display-lg-paragraph-spacing: 0;
   --font-display-lg-text-case: none;
-  --font-display-sm-font-size: 60px;
+  --font-display-sm-font-size: 48px;
   --font-display-sm-text-decoration: none;
   --font-display-sm-font-family: Poppins;
   --font-display-sm-font-weight: 900;
