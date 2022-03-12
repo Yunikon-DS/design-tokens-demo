@@ -31,7 +31,7 @@ export default css`:root {
   --spacing-inset-lg-bottom: 32px;
   --spacing-inset-lg-left: 0;
   --border-sm-stroke-align: inside;
-  --border-sm-dash-pattern: ;
+  --border-sm-dash-pattern: 0, 0;
   --border-sm-stroke-cap: none;
   --border-sm-stroke-join: miter;
   --border-sm-stroke-miter-limit: 4;
@@ -43,12 +43,12 @@ export default css`:root {
   --radius-sm-radii-bottom-right: 0;
   --radius-sm-radii-bottom-left: 0;
   --radius-sm-smoothing: 0;
-  --radius-md-radius: 100px;
+  --radius-md-radius: 8px;
   --radius-md-radius-type: single;
-  --radius-md-radii-top-left: 100px;
-  --radius-md-radii-top-right: 100px;
-  --radius-md-radii-bottom-right: 100px;
-  --radius-md-radii-bottom-left: 100px;
+  --radius-md-radii-top-left: 8px;
+  --radius-md-radii-top-right: 8px;
+  --radius-md-radii-bottom-right: 8px;
+  --radius-md-radii-bottom-left: 8px;
   --radius-md-smoothing: 0;
   --radius-lg-radius: 100px;
   --radius-lg-radius-type: single;
