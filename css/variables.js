@@ -58,7 +58,7 @@ export default css`:root {
   --radius-lg-radii-bottom-left: 100px;
   --radius-lg-smoothing: 0;
   --color-debug: #c4c4c4;
-  --color-primary-default-base: #7353ba; /* primary default base */
+  --color-primary-default-base: #e80e50; /* primary default base */
   --color-primary-default-contrast: #ffffff; /* primary default contrast */
   --color-primary-hover-base: #f7b538; /* primary hover base */
   --color-primary-hover-contrast: #7353ba; /* primary hover contrast */
