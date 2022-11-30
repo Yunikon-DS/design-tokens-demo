@@ -28,13 +28,6 @@
   --spacing-inset-lg-right: 0;
   --spacing-inset-lg-bottom: 32px;
   --spacing-inset-lg-left: 0;
-  --border-sm-stroke-align: inside;
-  --border-sm-dash-pattern: 0, 0;
-  --border-sm-stroke-cap: none;
-  --border-sm-stroke-join: miter;
-  --border-sm-stroke-miter-limit: 4;
-  --border-sm-stroke-weight: 1px;
-  --border-sm-stroke: rgba(196, 196, 196, 1);
   --radius-sm-radius-type: mixed;
   --radius-sm-radii-top-left: 0;
   --radius-sm-radii-top-right: 0;
@@ -55,7 +48,7 @@
   --radius-lg-radii-bottom-right: 100px;
   --radius-lg-radii-bottom-left: 100px;
   --radius-lg-smoothing: 0;
-  --color-debug: #c4c4c4;
+  --color-debug: rgba(0, 0, 0, 0);
   --color-primary-default-base: #7353ba; /* primary default base */
   --color-primary-default-contrast: #ffffff; /* primary default contrast */
   --color-primary-hover-base: #f7b538; /* primary hover base */
